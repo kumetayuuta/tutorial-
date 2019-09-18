@@ -1,9 +1,14 @@
 aiueo
 kakikukeko
 sasisuseso
+<<<<<<< HEAD
 tatituteto
 naninuneno
 hahihheho
 mamimumemmo
 gaigugego
 zazizuzezo
+=======
+gaigugego
+zazizuzezo
+>>>>>>> kumetayuuta
